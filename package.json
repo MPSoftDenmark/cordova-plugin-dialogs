@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-dialogs"
+    "url": "https://github.com/MPSoftDenmark/cordova-plugin-dialogs"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-dialogs/issues"
+    "url": "https://github.com/MPSoftDenmark/cordova-plugin-dialogs/issues"
   },
   "keywords": [
     "cordova",
